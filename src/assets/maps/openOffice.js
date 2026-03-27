@@ -8,7 +8,7 @@ const openOffice = {
     objects: [
         { type: 'desk', x: 1, y: 1 },
         { type: 'desk', x: 6, y: 3 },
-        { type: 'desk', x: 6, y: 5 },
+        { type: 'desk', x: 2, y: 5 },
         { type: 'plant', x: 2, y: 8 },
         { type: 'plant', x: 8, y: 2 }
     ]
