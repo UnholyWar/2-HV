@@ -7,7 +7,7 @@ const startupOffice = {
     },
     objects: [
         { type: 'desk', x: 2, y: 2 },
-        { type: 'desk', x: 3, y: 2 },
+        { type: 'desk', x: 11, y: 2 },
         { type: 'desk', x: 7, y: 4 },
         { type: 'plant', x: 1, y: 9 },
         { type: 'plant', x: 9, y: 1 },
